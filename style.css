@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+#start{
+    font-size: 19px;
+}
+#status,#number_of_objects{
+    font-size: 20px;
+}
+.copy_right_footer{
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    color: yellow;
+    font-size: 18px;
+    position: fixed;
+    bottom: 0;
+}
+canvas{
+    box-shadow: 5px 5px 5px yellow;
+    border: solid 5px blue;
+    border-radius: 10px;
+    margin-top: 150px;
+}
+#Start:hover{
+    cursor: pointer;
+}
